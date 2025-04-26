@@ -2,7 +2,7 @@
   "name": "smartcampusx-backend",
   "version": "1.0.0",
   "main": "server.js",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "start": "node server.js"
